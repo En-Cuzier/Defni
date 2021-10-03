@@ -3,9 +3,9 @@
     "description": "JulieMwol project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
     "logo": "https://avatars.githubusercontent.com/u/83164448?v=4",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/farhan-dqz/JulieMwol",
-    "website":   "https://t.me/farhan-dqz",
-    "success_url": "https://t.me/farhan-dqz",
+    "repository": "https://github.com/En-Cuzier/Defni/blob/master/README.md",
+    "website":   "https://github.com/En-Cuzier/Defni/blob/master/README.md",
+    "success_url": "https://github.com/En-Cuzier/Defni/blob/master/README.md",
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
